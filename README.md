@@ -18,3 +18,6 @@ This is more than just code – it’s my commitment to consistency, learning, a
 I created this repo to track my journey and help others looking to build strong Python fundamentals.
 
 📅 Duration: 30 Days
+
+DAY 1 - Alternates in an Array
+link - https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
