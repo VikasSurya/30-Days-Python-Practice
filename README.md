@@ -21,3 +21,17 @@ I created this repo to track my journey and help others looking to build strong 
 
 DAY 1 - Alternates in an Array
 link - https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+
+DAY 2 
+1. Replace all 0's with 5
+link - https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/0
+
+2. Change the string
+link - https://www.geeksforgeeks.org/problems/change-the-string3541/0
+
+3. C++ Strings
+link - https://www.geeksforgeeks.org/problems/c-strings4609/0
+
+
+
+
