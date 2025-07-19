@@ -22,4 +22,46 @@ class Solution:
         return res
 
 
+2. Given a string s, the task is to change the complete string to uppercase or lowercase depending on the case of the first character.
+
+Examples:
+
+Input: s = "abCD"
+Output: "abcd"
+Explanation: The first letter (a) is lowercase. Hence, the complete string is made lowercase.
+
+link - https://www.geeksforgeeks.org/problems/change-the-string3541/0
+
+**********Solution**********
+
+class Solution:
+    def modify(self, s):
+
+        if s[0].islower():
+            return s.lower()
+        else:
+            return s.upper()
+
+
+
+3. Given two strings  S1 and S2 . You have to concatenate both the strings and print the concatenated string.
+
+Example 1:
+
+Input:
+S1 = "Geeksfor"
+S2 = "Geeks"
+Output: GeeksforGeeks
+Explanation: Combined "Geeksfor" and "Geeks"
+
+link - https://www.geeksforgeeks.org/problems/c-strings4609/0
+
+**********Solution**********
+
+class Solution:
+
+    def conCat(self,s1,s2):
+        # code here
+        return s1+s2
+
 
