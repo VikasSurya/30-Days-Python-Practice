@@ -1,0 +1,35 @@
+1. Given an integer n, your task is to compute the sum of all natural numbers from 1 to n (inclusive). If n is 0, the sum should be 0.
+
+Examples:
+
+Input: n = 3
+Output: 6
+Explanation: For n = 3, the sum will be 6. 1 + 2 + 3 = 6.
+
+
+**********Solution**********
+
+class Solution:
+    def findSum(self, n):
+        # code here
+        result = 0
+        for i in range (1,n+1):
+            result += i
+        return result
+
+2. You are given an integer array arr[]. The task is to find the sum of it.
+
+Examples:
+
+Input: arr[] = [1, 2, 3, 4]
+Output: 10
+Explanation: 1 + 2 + 3 + 4 = 10.
+
+**********Solution**********
+
+class Solution:
+	def arraySum(self, arr):
+	   result = 0
+	   for i in arr:
+	       result = result+i
+	   return result
