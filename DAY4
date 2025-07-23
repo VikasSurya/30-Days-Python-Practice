@@ -1,0 +1,57 @@
+1. Given a string. Count the number of Camel Case characters in it.
+
+Example 1:
+
+Input:
+S = "ckjkUUYII"
+Output: 5
+Explanation: Camel Case characters present:
+U, U, Y, I and I.
+
+**********Solution**********
+
+class Solution:
+    def countCamelCase (self,s):
+        result = 0
+        for i in s:
+            if i.isupper():
+                result += 1
+        return result
+
+2. Given a string S, write a program to count the occurrence of Lowercase characters, Uppercase characters, Special characters and Numeric values in the string.
+Note: There are no white spaces in the string.
+
+Example 1:
+
+Input:
+S = "#GeeKs01fOr@gEEks07"
+Output:
+5
+8
+4
+2
+Explanation: There are 5 uppercase characters,
+8 lowercase characters, 4 numeric characters
+and 2 special characters.
+
+**********Solution**********
+
+class Solution:
+
+    
+    def count (self,s):
+        low = 0
+        up = 0
+        special = 0
+        numeric = 0
+        for i in s:
+            if i.islower():
+                low += 1
+            if i.isupper():
+                up += 1
+            if not i.isalnum():
+                special += 1
+            if i.isdigit():
+                numeric += 1
+                
+        return (up,low,numeric,special)
