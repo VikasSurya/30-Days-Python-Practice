@@ -40,6 +40,13 @@ link - https://www.geeksforgeeks.org/problems/sum-of-series2811/0
 2. Sum of Array
 link - https://www.geeksforgeeks.org/problems/sum-of-array2326/0
 
+DAY4
+1. Count of camel case characters
+link - https://www.geeksforgeeks.org/problems/find-the-camel3348/0
+
+2. Count type of Characters
+link - https://www.geeksforgeeks.org/problems/count-type-of-characters3635/0
+
 
 
 
