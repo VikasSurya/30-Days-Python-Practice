@@ -34,7 +34,7 @@ link - https://www.geeksforgeeks.org/problems/change-the-string3541/0
 link - https://www.geeksforgeeks.org/problems/c-strings4609/0
 
 DAY 3
-1 Sum of Natural Numbers
+1. Sum of Natural Numbers
 link - https://www.geeksforgeeks.org/problems/sum-of-series2811/0
 
 2. Sum of Array
