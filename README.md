@@ -29,6 +29,9 @@ link - https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/0
 2. Change the string
 link - https://www.geeksforgeeks.org/problems/change-the-string3541/0
 
+3. C++ Strings
+link - https://www.geeksforgeeks.org/problems/c-strings4609/0
+
 DAY 3
 1 Sum of Natural Numbers
 link - https://www.geeksforgeeks.org/problems/sum-of-series2811/0
@@ -36,8 +39,7 @@ link - https://www.geeksforgeeks.org/problems/sum-of-series2811/0
 2. Sum of Array
 link - https://www.geeksforgeeks.org/problems/sum-of-array2326/0
 
-3. C++ Strings
-link - https://www.geeksforgeeks.org/problems/c-strings4609/0
+
 
 
 
