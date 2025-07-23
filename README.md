@@ -19,7 +19,8 @@ I created this repo to track my journey and help others looking to build strong 
 
 📅 Duration: 30 Days
 
-DAY 1 - Alternates in an Array
+DAY 1
+1. Alternates in an Array
 link - https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
 
 DAY 2 
