@@ -47,6 +47,13 @@ link - https://www.geeksforgeeks.org/problems/find-the-camel3348/0
 2. Count type of Characters
 link - https://www.geeksforgeeks.org/problems/count-type-of-characters3635/0
 
+DAY5
+1. Largest Element in Array
+link - https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0
+
+2. Searching in an Array
+link - https://www.geeksforgeeks.org/problems/searching-a-number0324/0
+
 
 
 
