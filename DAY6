@@ -1,0 +1,46 @@
+1. Given a string S of lowercase alphabets, check if it is isogram or not. An Isogram is a string in which no letter occurs more than once.
+
+Example 1:
+
+Input:
+S = machine
+Output: 1
+Explanation: machine is an isogram
+as no letter has appeared twice. Hence
+we print 1.
+
+**********Solution**********
+class Solution:
+    
+    #Function to check if a string is Isogram or not.
+    def isIsogram(self,s):
+        res = ""
+        for i in s:
+            if i not in res:
+                res += i
+            else:
+                return False
+        return True
+
+2. Given a string s as input. Delete the characters at odd indices of the string. Return the final string after deletion of characters at odd indices.
+
+Examples :
+
+Input: s = "Geeks"
+Output: "Ges" 
+Explanation: Deleted "e" at index 1 and "k" at index 3.
+
+*********Solution**********
+
+class Solution:
+    def delAlternate (ob, S):
+        # code here 
+        res =""
+        for i in range(0,len(S)):
+            if i%2==0:
+                res += S[i]
+            else:
+                pass
+                
+                
+        return res
