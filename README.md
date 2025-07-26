@@ -55,7 +55,7 @@ link - https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0
 link - https://www.geeksforgeeks.org/problems/searching-a-number0324/0
 
 DAY6
-1.Check if a string is Isogram or not
+1. Check if a string is Isogram or not
 Link - https://www.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-not-1587115620/0
 
 2. Delete alternate characters
