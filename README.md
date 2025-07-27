@@ -61,6 +61,14 @@ Link - https://www.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-no
 2. Delete alternate characters
 Link - https://www.geeksforgeeks.org/problems/java-delete-alternate-characters4036/0
 
+DAY7
+1. Swap kth elements
+Link - https://www.geeksforgeeks.org/problems/swap-kth-elements5500/0
+
+2. Prime Number
+Link - https://www.geeksforgeeks.org/problems/prime-number2314/0
+
+
 
 
 
