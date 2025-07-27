@@ -68,6 +68,11 @@ Link - https://www.geeksforgeeks.org/problems/swap-kth-elements5500/0
 2. Prime Number
 Link - https://www.geeksforgeeks.org/problems/prime-number2314/0
 
+DAY8
+1. Longest Common Prefix
+Link - https://leetcode.com/problems/longest-common-prefix/description/
+
+
 
 
 
