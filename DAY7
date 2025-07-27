@@ -1,0 +1,76 @@
+1. Given an array arr[], swap the kth element from the beginning with the kth element from the end.
+
+Note: 1-based indexing is followed.
+
+Examples :
+
+Input: arr[] = [1, 2, 3, 4, 5, 6, 7, 8], k = 3
+Output: [1, 2, 6, 4, 5, 3, 7, 8]
+Explanation: 3rd element from beginning is 3 and 3rd element from end is 6, so we replace 3 & 6.
+
+**********Solution**********
+
+class Solution:
+    def swapKth(self, arr, k):
+        # Code Here
+        arr[k-1],arr[-k] = arr[-k],arr[k-1]
+
+        return arr
+
+2. Given a number n, determine whether it is a prime number or not.
+Note: A prime number is a number greater than 1 that has no positive divisors other than 1 and itself.
+
+Examples :
+
+Input: n = 7
+Output: true
+Explanation: 7 has exactly two divisors: 1 and 7, making it a prime number.
+
+class Solution:
+    
+    def isPrime(self, n):
+        if n==1:
+            return False
+        for i in range(2,int((n**0.5)+1)):
+            if n%i == 0:
+                return False
+        return True
+
+**************************************************************************************************
+
+EXTRA :
+A number > 1 jiska only 2 factors hote hain — 1 and itself.
+
+Maan lo n = 101, agar ye kisi aur number se divide ho gaya (except 1 and 101), toh ye prime nahi hoga.
+
+🧠 Ab main question: √n tak hi check kyu karein?
+Suppose n = 101 and it's not a prime.
+
+Iska matlab:
+➡️ There must exist two numbers a and b such that:
+a × b = 101
+And 1 < a < b < 101
+
+Ab soch:
+
+Agar both a and b > √n, toh a × b will be greater than n ❌
+
+So at least one of the two (either a or b) must be ≤ √n
+
+✅ That’s why:
+If no number from 2 to √n divides n, then n is prime!
+
+🔢 Example:
+For n = 101
+
+√101 ≈ 10.04
+
+We check divisibility from 2 to 10
+
+If none of them divide 101 → ✅ 101 is prime
+
+🔁 Summary (Interview style):
+Why do we check up to √n for prime?
+Because if a number n has a factor other than 1 and itself,
+then at least one of its factors will always be ≤ √n.
+So checking beyond √n is wasteful and unnecessary.
