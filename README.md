@@ -72,6 +72,15 @@ DAY8
 1. Longest Common Prefix
 Link - https://leetcode.com/problems/longest-common-prefix/description/
 
+DAY9
+1. Palindrome Array
+Link - https://www.geeksforgeeks.org/problems/perfect-arrays4645/0
+
+2. Array Search
+Link - https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/0
+
+
+
 
 
 
