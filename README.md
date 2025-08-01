@@ -79,6 +79,14 @@ Link - https://www.geeksforgeeks.org/problems/perfect-arrays4645/0
 2. Array Search
 Link - https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/0
 
+DAY10
+1. Repeated Character
+Link - https://www.geeksforgeeks.org/problems/repeated-character2058/0
+
+2. Non Repeating Character
+Link - https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1?page=1&category=Strings&difficulty=Easy&status=solved&sortBy=submissions
+
+
 
 
 
