@@ -86,7 +86,9 @@ Link - https://www.geeksforgeeks.org/problems/repeated-character2058/0
 2. Non Repeating Character
 Link - https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1?page=1&category=Strings&difficulty=Easy&status=solved&sortBy=submissions
 
-
+DAY11
+1. Peak element
+Link - https://www.geeksforgeeks.org/problems/peak-element/0
 
 
 
