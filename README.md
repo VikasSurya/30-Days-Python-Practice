@@ -90,6 +90,13 @@ DAY11
 1. Peak element
 Link - https://www.geeksforgeeks.org/problems/peak-element/0
 
+DAY12
+1. Upper Case Conversion
+Link - https://www.geeksforgeeks.org/problems/upper-case-conversion5419/0
+
+2. Convert a list of characters into a String
+Link - https://www.geeksforgeeks.org/problems/convert-a-list-of-characters-into-a-string5142/0
+
 
 
 
