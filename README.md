@@ -1,5 +1,5 @@
 
-🚀 30 Days of Python – A Journey of Code, Logic & Growth 🐍
+# 🚀 30 Days of Python – A Journey of Code, Logic & Growth 🐍
 Welcome to my 30-day Python coding challenge!
 For the past month, I've been consistently coding every single day — solving problems, building logic, and getting better with Python step by step.
 
@@ -96,6 +96,10 @@ Link - https://www.geeksforgeeks.org/problems/upper-case-conversion5419/0
 
 2. Convert a list of characters into a String
 Link - https://www.geeksforgeeks.org/problems/convert-a-list-of-characters-into-a-string5142/0
+
+DAY13
+1. One odd Occuring
+Link - https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
 
 
 
