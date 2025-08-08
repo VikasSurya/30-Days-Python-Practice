@@ -101,6 +101,12 @@ DAY13
 1. One odd Occuring
 Link - https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
 
+DAY14
+1. Valid Palindrome
+Link - https://leetcode.com/problems/valid-palindrome/description/
+
+
+
 
 
 
