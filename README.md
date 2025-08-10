@@ -105,6 +105,11 @@ DAY14
 1. Valid Palindrome
 Link - https://leetcode.com/problems/valid-palindrome/description/
 
+DAY15
+1. Print 1 To N Without Loop
+Link - (https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/0)
+
+
 
 
 
