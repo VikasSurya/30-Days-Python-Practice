@@ -109,6 +109,13 @@ DAY15
 1. Print 1 To N Without Loop
 Link - (https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/0)
 
+DAY16
+1. Count of smaller elements
+Link - https://www.geeksforgeeks.org/problems/count-of-smaller-elements5947/0
+
+2. Value equal to index value
+Link - https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/0
+
 
 
 
