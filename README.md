@@ -116,6 +116,10 @@ Link - https://www.geeksforgeeks.org/problems/count-of-smaller-elements5947/0
 2. Value equal to index value
 Link - https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/0
 
+DAY17
+1. Remove vowels from string
+Link - https://www.geeksforgeeks.org/problems/remove-vowels-from-string1446/0
+
 
 
 
