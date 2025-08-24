@@ -120,6 +120,10 @@ DAY17
 1. Remove vowels from string
 Link - https://www.geeksforgeeks.org/problems/remove-vowels-from-string1446/0
 
+DAY18
+1. Sorted Array Search
+Link - https://www.geeksforgeeks.org/problems/who-will-win-1587115621/0
+
 
 
 
